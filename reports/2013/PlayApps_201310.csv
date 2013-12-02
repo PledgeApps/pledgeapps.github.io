@@ -1,0 +1,5 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+1327218125157558,"Oct 29, 2013",12:16:43 PM PDT,,Charge,,One Dollar Donation,com.pledgeapps.buyingtime,1,donate_1,goghvmu,US,OK,74012,USD,1.00,1.000000,USD,1.00
+1327218125157558,"Oct 29, 2013",12:16:43 PM PDT,,Google fee,,One Dollar Donation,com.pledgeapps.buyingtime,1,donate_1,goghvmu,US,OK,74012,USD,-0.30,1.000000,USD,-0.30
+1354673850609187,"Oct 29, 2013",6:48:44 PM PDT,,Google fee,,Five Dollar Donation,com.pledgeapps.buyingtime,1,donate_5,d2att,US,IL,60050,USD,-1.50,1.000000,USD,-1.50
+1354673850609187,"Oct 29, 2013",6:48:44 PM PDT,,Charge,,Five Dollar Donation,com.pledgeapps.buyingtime,1,donate_5,d2att,US,IL,60050,USD,5.00,1.000000,USD,5.00
